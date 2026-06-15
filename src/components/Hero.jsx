@@ -224,7 +224,7 @@ export default function Hero() {
               }}
             >
               <a
-                href="https://discord.com/invite/58mcCZ5YBf"
+                href="https://discord.com/invite/DWj3QtgMbA"
                 target="_blank"
                 rel="noopener"
                 className="clip-skew"
